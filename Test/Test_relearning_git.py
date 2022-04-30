@@ -7,7 +7,10 @@ class Test:
         print("Hello, Developer!")
 
     def test_code_again():
-        print("Hello, Developer Again!")
+        print("Hello, Developer Again")
+    
+    def test_code_more():
+        print("Hello, Developer Again and Again!")
 
     def test_code_again_branches():
         print("Hello, Developer From Other Branch!")
