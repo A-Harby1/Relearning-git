@@ -8,3 +8,6 @@ class Test:
 
     def test_code_again():
         print("Hello, Developer Again")
+
+    def test_code_again():
+        print("Hello, Developer From Other Branch!")
